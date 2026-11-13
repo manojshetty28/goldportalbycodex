@@ -1,0 +1,8 @@
+goldportalspecs.txt - requirements for coding the initial App and UI pages 
+1) Home Page 
+Title of Home Page - "Invest in Gold" 
+show Current Date & Time - Gold price in dollars only
+Show a line chart showing Gold price of past 10 days - show price of Gold for per Day (Date) 
+Date format = 'dd/mm/yyyy'
+display less text in Home page - focus on diagrams and charts and values and date and time and numbers 
+
